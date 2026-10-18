@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:18:48.177Z",
+  "generated_at": "2026-10-18T10:01:36.125Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -149,6 +149,19 @@
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-10-17T01:18:47.655Z",
       "last_pushed_at": "2026-10-17T01:18:47.655Z"
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-10-18T10:01:35.438Z",
+      "last_pushed_at": "2026-10-18T10:01:35.438Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }
