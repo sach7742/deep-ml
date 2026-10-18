@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:01:36.125Z",
+  "generated_at": "2026-10-18T10:03:54.794Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -126,7 +126,7 @@
       "url": "https://www.deep-ml.com/math-problems/33",
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-10-15T06:25:52.859Z",
-      "last_pushed_at": "2026-10-15T06:25:52.859Z"
+      "last_pushed_at": "2026-10-18T10:03:54.115Z"
     },
     "math:11": {
       "kind": "math",
