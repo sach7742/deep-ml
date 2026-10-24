@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T05:54:04.214Z",
+  "generated_at": "2026-10-24T06:11:21.332Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -194,7 +194,7 @@
       "url": "https://www.deep-ml.com/math-problems/48",
       "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
       "first_solved_at": "2026-10-22T05:54:03.250Z",
-      "last_pushed_at": "2026-10-22T05:54:03.250Z"
+      "last_pushed_at": "2026-10-24T06:11:20.269Z"
     }
   }
 }
