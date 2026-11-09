@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 4 problems · 0 labs · 15 math
+**20** solved · 4 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-17 | [solution](math/0012-inverse-and-rank) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-10-19 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-10 | [solution](math/0010-matrix-multiplication) |
+| [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-11-09 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-10-22 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-11 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-29 | [solution](math/0016-eigendecomposition-and-svd) |
